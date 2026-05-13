@@ -9,7 +9,7 @@ This repository documents **end-to-end ticket lifecycle workflows** in osTicket,
 This is **Part 3** of a three-part osTicket project series:
 
 - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/HaileySchultz/osticket-prereqs)
-- [osTicket: Post-Installation Configuration (Part 2)](https://github.com/HaileySchultz/post-install-conf)
+- [osTicket: Post-Installation Configuration (Part 2)](https://github.com/HaileySchultz/post-install-config)
 - **osTicket: Ticket Lifecycle Examples (Part 3)** (this repo)
 
 ---
